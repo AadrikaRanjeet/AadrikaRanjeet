@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **c#,animation for games**
 
-- 💬 Ask me about **Java, c#,c++,unity,blender**
+- 💬 Ask me about **Java, c#,c++,unity,javascript**
 
 - 📫 How to reach me **ranjeetaadrika@gmail.com**
 
