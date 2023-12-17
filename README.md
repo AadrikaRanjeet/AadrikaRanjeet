@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aadrika-ranjeet-395a8a22a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aadrika-ranjeet-395a8a22a/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aadrika-ranjeet-395a8a22a/a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aadrika-ranjeet-395a8a22a/" height="30" width="40" /></a>
 <a href="https://instagram.com/aadrika_ranjeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aadrika_ranjeet" height="30" width="40" /></a>
 </p>
 
