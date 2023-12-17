@@ -1,6 +1,6 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/37415a62940471.5aa0678f76084.png)
 <h1 align="center">Hi 👋, I'm Aadrika Ranjeet</h1>
-<h3 align="center">I am interested in game development</h3>
+<h3 align="center">On a mission to make the internet more fun and games!</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/vector-illustration-cartoon-cute-girl-programmer-coder-developer-designer_657235-204.jpg?w=740">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadrikaranjeet&label=Profile%20views&color=0e75b6&style=flat" alt="aadrikaranjeet" /> </p>
 
